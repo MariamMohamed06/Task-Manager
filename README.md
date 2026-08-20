@@ -22,24 +22,16 @@ A modern desktop Task Manager built with Python and CustomTkinter.
 - Tkinter
 - JSON
 
-
-## 📁 Project Structure
-
-- `main.py`
-- `task_app.py`
-- `task_manager.py`
-- `tasks.json`
-- `README.md`
-- `.gitignore`
-
-
 ## 📂 File Description
 
 ### `main.py`
+
 Responsible for starting the application and running the main Task Manager window.
 
 ### `task_app.py`
+
 Handles the graphical user interface (GUI), including:
+
 - Creating the main window
 - Displaying task cards
 - Adding and editing tasks
@@ -50,7 +42,9 @@ Handles the graphical user interface (GUI), including:
 - Validating task input
 
 ### `task_manager.py`
+
 Handles task data and business logic, including:
+
 - Adding tasks
 - Updating tasks
 - Deleting tasks
@@ -61,18 +55,51 @@ Handles task data and business logic, including:
 - Managing unique task IDs
 
 ### `tasks.json`
+
 Stores the task data locally in JSON format so tasks are saved when the application is closed.
 
-##  How to Run
+## 📁 Project Structure
+
+- `main.py`
+- `task_app.py`
+- `task_manager.py`
+- `tasks.json`
+- `README.md`
+- `.gitignore`
+
+## 📸 Screenshots
+
+### Main Dashboard
+
+![Main Dashboard](main.png)
+
+### New Task
+
+![New Task](new_task.png)
+
+### Edit Task
+
+![Edit Task](edit_task.png)
+
+### Search and Filters
+
+![Search and Filters](filters.png)
+
+## 🚀 How to Run
 
 1. Install Python.
 
 2. Install CustomTkinter:
 
+```bash
 pip install customtkinter
+```
 
 3. Run the application:
 
+```bash
 python main.py
+```
+
 
 
