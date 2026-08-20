@@ -70,20 +70,16 @@ Stores the task data locally in JSON format so tasks are saved when the applicat
 ## 📸 Screenshots
 
 ### Main Dashboard
-
-![Main Dashboard](main.png)
+![Main Dashboard](screenshots/main.png)
 
 ### New Task
-
-![New Task](new_task.png)
+![New Task](screenshots/new_task.png)
 
 ### Edit Task
+![Edit Task](screenshots/edit_task.png)
 
-![Edit Task](edit_task.png)
-
-### Search and Filters
-
-![Search and Filters](filters.png)
+### Filters
+![Search and Filters](screenshots/filters.png)
 
 ## 🚀 How to Run
 
