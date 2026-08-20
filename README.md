@@ -34,7 +34,7 @@ Task Manager/
 ├── tasks.json
 ├── README.md
 └── .gitignore
-'''
+
 ## 📂 File Description
 
 ### `main.py`
