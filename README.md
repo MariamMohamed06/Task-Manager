@@ -25,15 +25,13 @@ A modern desktop Task Manager built with Python and CustomTkinter.
 
 ## 📁 Project Structure
 
-```text
-Task Manager/
-│
-├── main.py
-├── task_app.py
-├── task_manager.py
-├── tasks.json
-├── README.md
-└── .gitignore
+- `main.py`
+- `task_app.py`
+- `task_manager.py`
+- `tasks.json`
+- `README.md`
+- `.gitignore`
+
 
 ## 📂 File Description
 
