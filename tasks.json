@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "title": "Study Python Lec3",
+        "completed": false,
+        "priority": "Low",
+        "category": "Study",
+        "time": "6 hours"
+    },
+    {
+        "id": 2,
+        "title": "Go to Hospital",
+        "completed": false,
+        "priority": "Urgent",
+        "category": "Personal",
+        "time": "5 hours"
+    },
+    {
+        "id": 4,
+        "title": "Supervisor time",
+        "completed": true,
+        "priority": "High",
+        "category": "Work",
+        "time": "1.5 hour"
+    },
+    {
+        "id": 5,
+        "title": "Weekly meetings",
+        "completed": true,
+        "priority": "High",
+        "category": "Work",
+        "time": "6 hours"
+    },
+    {
+        "id": 6,
+        "title": "Office Hour",
+        "completed": false,
+        "priority": "Medium",
+        "category": "Work",
+        "time": "2 hours"
+    }
+]
