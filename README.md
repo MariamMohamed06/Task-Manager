@@ -35,6 +35,36 @@ Task Manager/
 ├── README.md
 └── .gitignore
 '''
+## 📂 File Description
+
+### `main.py`
+Responsible for starting the application and running the main Task Manager window.
+
+### `task_app.py`
+Handles the graphical user interface (GUI), including:
+- Creating the main window
+- Displaying task cards
+- Adding and editing tasks
+- Searching for tasks
+- Filtering tasks
+- Completing and deleting tasks
+- Updating task statistics
+- Validating task input
+
+### `task_manager.py`
+Handles task data and business logic, including:
+- Adding tasks
+- Updating tasks
+- Deleting tasks
+- Completing tasks
+- Loading tasks from JSON
+- Saving tasks to JSON
+- Generating task statistics
+- Managing unique task IDs
+
+### `tasks.json`
+Stores the task data locally in JSON format so tasks are saved when the application is closed.
+
 ##  How to Run
 
 1. Install Python.
@@ -46,3 +76,5 @@ pip install customtkinter
 3. Run the application:
 
 python main.py
+
+
